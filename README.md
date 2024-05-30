@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="#">HortuaDev</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="[https://i.imgur.com/weNbhGZ.png](https://imgur.com/a/fOsEX4Y)">
 
 - ⭐ Github Star ⭐ 
 - 📲 Mobile developer
