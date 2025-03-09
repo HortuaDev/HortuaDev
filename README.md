@@ -3,7 +3,7 @@
 <br>
 </div>
 <br>
-<img src="https://i.imgur.com/JqfqVoH.png">
+<img src="https://www.canva.com/design/DAGGt9tiETo/SHlReG9pH1Cn1i6zBXR4Sg/edit">
 
 - ⭐ Github Star ⭐ 
 - 📲 Mobile developer
