@@ -3,7 +3,7 @@
 <br>
 </div>
 <br>
-<img src="https://www.canva.com/design/DAGGt9tiETo/SHlReG9pH1Cn1i6zBXR4Sg/edit">
+<img src="https://github.com/HortuaDev/HortuaDev/blob/main/Banner_rrss_23.png" width="100%">
 
 - ⭐ Github Star ⭐ 
 - 📲 Mobile developer
