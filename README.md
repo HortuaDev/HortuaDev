@@ -6,7 +6,7 @@
 <img src="https://github.com/HortuaDev/HortuaDev/blob/main/Banner_rrss_23.png" width="100%">
 
 - ⭐ Github Star ⭐ 
-- 📲 Mobile developer
+- 📲 App developer
 - 🖥️ Software developer
   
 <br>
