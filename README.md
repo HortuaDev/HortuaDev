@@ -3,7 +3,7 @@
 <br>
 </div>
 <br>
-<img src="https://github.com/HortuaDev/HortuaDev/blob/main/Banner_rrss_23.png" width="100%">
+<img src="https://github.com/HortuaDev/HortuaDev/blob/main/Desarrollador de Software.png" width="100%">
 
 - ⭐ Github Star ⭐ 
 - 📲 App developer
